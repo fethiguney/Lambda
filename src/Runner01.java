@@ -7,6 +7,15 @@ public class Runner01 extends Lambda01{
         enBuyukHarfiBul(numbers);
         tumElemanlarinToplaminiYazdiriniz(numbers);
         ciftElemanlarinCarpiminiYazdiriniz(numbers);
+        teklerinKareBuyuktenKucuge(numbers);
+        System.out.println();
+        sonHarfeGoreTersSira(menu);
+        System.out.println();
+        karakterSayiYedidenBuyuk(menu);
+        karkterEnFazla(menu);
+        sonHarfeGoreSiralaIlkHaricElmanlariYaz(menu);
+        System.out.println();
+        alfabetikBuyukHarfTekrarsiz(menu);
 
 
 
